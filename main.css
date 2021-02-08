@@ -95,7 +95,7 @@ nav a:hover:after {
   margin-left: 50px;
 }
 
-.home img {
+.home .profile{
   margin-top: 100px;
   width: 250px;
   height: 250px;
@@ -317,7 +317,7 @@ footer p {
 .home {
   margin-left: 20px;
 }
-  .home img {
+  .home .profile{
 
   width: 150px;
   height: 150px;
