@@ -320,7 +320,15 @@ footer p {
   .main {
     margin-left:140px;
   }
-
+.namestart,.nameabout {
+  font-family: "Varela Round", sans-serif;
+  font-size: 16px; 
+}
+  .service-details p {
+  font-size: 14px;
+  margin-right: 5px;
+  
+}
   .skills {
     width: 100%;
   }
