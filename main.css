@@ -317,6 +317,10 @@ footer p {
 .home {
   margin-left: 20px;
 }
+  
+.headname {
+  font-size: 24px; 
+}
   .home .profile{
 
   width: 150px;
