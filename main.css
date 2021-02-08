@@ -314,7 +314,9 @@ footer p {
     width: 100px;
     height: 100px;
   }
-
+.home {
+  margin-left: 0px;
+}
   .main {
     margin-left:140px;
   }
